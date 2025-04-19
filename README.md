@@ -1,0 +1,24 @@
+## Rust By Example
+
+- Hello, world!
+- Variables
+- Constants
+- Enums
+- Scalar Types
+- Compound Types - Tuples
+- Compound Types - Arrays
+- Collections - Vectors
+- Collections - Hash Maps
+- Collections - Sets
+- If/Else
+- Match
+- Loops
+- Functions
+- Closures
+- Strings
+- Structs
+- Traits
+- Generics
+- Error Handling
+- Ownership
+- Pointers
